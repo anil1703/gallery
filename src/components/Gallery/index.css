@@ -1,0 +1,30 @@
+/* Write your code here. */
+.home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.img-style {
+  width: 55%;
+}
+
+.head {
+  font-size: 28px;
+  color: #1e293b;
+}
+
+.para {
+  color: #64748b;
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+.listo {
+  list-style: none;
+  margin-left: -45px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
